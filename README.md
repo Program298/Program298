@@ -6,7 +6,7 @@ Junior Software Developer Open to opportunities in Frontend, Mobile, and Full-St
 
 Recent graduate in Digital Technology with hands-on experience in mobile application development using React Native and web development with HTML, CSS, JavaScript, and Firebase through academic and personal projects.
 
-I have experience building cross-platform mobile applications, implementing real-time communication with WebSocket, integrating AI models, and developing full-stack applications. I am most comfortable working with React Native, JavaScript, HTML, and CSS. Additionally, I have explored Flutter, Vue.js, and Next.js through personal projects and self-learning.
+I have experience building cross-platform mobile applications, implementing real-time communication with WebSocket, integrating AI models, and developing full-stack applications. I am most comfortable working with React Native, JavaScript, HTML, and CSS. Additionally, I have explored Flutter, and Vue.js through personal projects and self-learning.
 
 My technical background also includes SQL databases, Java programming, and IoT development using ESP32 with Python-based systems. I am eager to start my professional career as a Software Developer, contribute to real-world projects, and continuously expand my knowledge in modern software development.
 
